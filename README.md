@@ -69,3 +69,13 @@ Feel free to contribute to this project by submitting issues, bug reports, or fe
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 =======
+<<<<<<< HEAD
+=======
+# Mehrshad - Next.js Theme
+
+[Mehrshad](https://elegantstack.netlify.app/Mehrshad-demo) - the fully-functional React Next.js Portfolio and Blog Theme for creative professionals. With its sleek design, powerful features, and lightning-fast performance, Mehrshad will help you take your online presence to the next level. Whether you're a freelancer, a content creator, or a creative professional, this theme has you covered.
+
+- [Live Demo](https://elegantstack.netlify.app/Mehrshad-demo)
+- [Documentation](https://elegantstack.netlify.app/Mehrshad)
+>>>>>>> afb2cec (First Release)
+>>>>>>> 2048085 (Some Changes Applied)

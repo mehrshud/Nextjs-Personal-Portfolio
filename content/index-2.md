@@ -63,7 +63,7 @@ list:
       src: /icons/logo-1.svg
   - name: Company 2
     icon:
-      src: /icons/logo-3.svg
+      src: /icons/logo-2.svg
   - name: Company 3
     icon:
       src: /icons/logo-3.svg

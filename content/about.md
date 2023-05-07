@@ -13,17 +13,27 @@ images:
   - src: /about.jpg
     alt: my image
 ---
-##### <span>01.</span> About me
+##### <span>01.</span> About me 🚀
 
-Lorem consequat reprehenderit ipsum nulla qui pariatur tempor officia ad. Excepteur excepteur pariatur ad laborum labore reprehenderit. Do eiusmod sit pariatur nisi. Quis non dolor amet magna eu adipisicing est ex.
+Greetings, fellow earthlings! I'm Mehrshad, a full-stack maestro on a cosmic quest to build digital utopias. My coding prowess is powered by the dynamic duo of JavaScript and Python, while my HTML, CSS, and JS sorcery conjures up web magic that leaves mortals spellbound.
 
-##### <span>02.</span> Interests and Hobbies
+##### <span>02.</span> Interests and Hobbies 🕺
 
-Ad Lorem et amet exercitation enim culpa nulla laboris eu eiusmod. Irure fugiat sunt esse consequat consectetur eu laboris voluptate eiusmod dolor. Nisi velit consectetur deserunt esse aliquip esse officia consequat eiusmod voluptate cupidatat id.
+When I'm not taming the wild beasts of cyberspace, you'll find me diving headfirst into peculiar documentaries, mastering the arcane arts of MMOs, or headbanging to the sweet symphony of prog rock. I'm also a culinary adventurer, fearlessly exploring the tantalizing landscapes of Persian gastronomy.
 
 ##### <span>03.</span> Framework Preferences
 
-Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehenderit cupidatat eiusmod cupidatat ut ipsum pariatur Lorem incididunt. Veniam sunt reprehenderit consectetur ullamco laborum magna sit aliquip minim esse.
+Behold my pantheon of cherished frameworks:
+
+Frontend : React.js 💙 , because components are bae.
+
+Backend : Django 👌, because Python is life.
+
+Database: PostgreSQL 🐘, because I like my data ACIDic.
+
+DevOps: Docker 🐳 and Kubernetes 🐙, because I believe in automating all the things.
+
+UX/UI: Figma 🎨, because even engineers need to look cool. 😎
 
 
 
@@ -53,21 +63,21 @@ list:
 title: Back-End Development
 list:
   - title: Node.js
-    level: 1
+    level: 4
     icon:
       src: /icons/nodedotjs.svg
-  - title: Prisma
-    level: 3
+  - title: Python
+    level: 5
     icon:
-      src: /icons/prisma.svg
+      src: /icons/python.svg
   - title: Svelte
     level: 4
     icon:
       src: /icons/svelte.svg
-  - title: HTML5
-    level: 5
+  - title: Laravel
+    level: 3
     icon:
-      src: /icons/html5.svg
+      src: /icons/laravel.svg
   - title: Solidity
     level: 2
     icon:
@@ -83,29 +93,29 @@ list:
 title: Front-End UI/UX Design
 list:
   - title: JavaScript
-    level: 4
+    level: 5
     icon:
       src: /icons/javascript.svg
   - title: React
-    level: 3
-    icon:
-      src: /icons/react.svg
-  - title: Redux
     level: 4
     icon:
+      src: /icons/react.svg
+  - title: THREE.js
+    level: 5
+    icon:
       src: /icons/redux.svg
-  - title: GraphQL
+  - title: Next.js
     level: 2
     icon:
-      src: /icons/graphql.svg
+      src: /icons/next.svg
   - title: Node.js
     level: 4
     icon:
       src: /icons/nodedotjs.svg
-  - title: Prisma
+  - title: Vue.js
     level: 5
     icon:
-      src: /icons/prisma.svg
+      src: /icons/vue.svg
 ---
 
 
@@ -113,15 +123,15 @@ list:
 ---history[0]
 title: Employment
 list:
-  - name: MetaVerse Inc.
-    description: Web3 Developer
-    date: 2020-Present
-  - name: Vircil Intl Co..
-    description: Back-End Developer and Designer
-    date: 2018-2020
-  - name: Crowdcube Inc.
-    description: Technical Support
-    date: 2018-2015
+  - name: Snappfood Inc.
+    description: VMS Software Support Supervisor
+    date: 2018-2019
+  - name: Johns Hopkins University
+    description: Back-End Developer and Designer (Remote)
+    date: 2020-2021
+  - name: Elite Author
+    description: 2021-Present
+    date: 2021-Present
 ---
 
 
@@ -129,13 +139,10 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
-    date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
+  - name: Isfahan Technical University
+    description: BEng (Software Engineering)
+    date: 2016-2018
+  - name: Tehran Technical University
+    description: BTech (Computer Science)
+    date: 2018-2020
 ---

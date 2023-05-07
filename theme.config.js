@@ -54,11 +54,11 @@ export const menu = [
   //   slug: '/blog',
   //   Icon: TfiPencilAlt,
   // },
-  {
-    name: 'Projects',
-    slug: '/projects',
-    Icon: SlTrophy,
-  },
+  // {
+  //   name: 'Projects',
+  //   slug: '/projects',
+  //   Icon: SlTrophy,
+  // },
   {
     name: 'Contact',
     slug: '/contact',
