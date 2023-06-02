@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Next.js Personal Portfolio 🎨🚀
 
 ![Next.js logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png)
