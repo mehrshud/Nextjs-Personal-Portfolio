@@ -69,7 +69,7 @@ Feel free to contribute to this project by submitting issues, bug reports, or fe
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 =======
-<<<<<<< HEAD
+
 =======
 # Mehrshad - Next.js Theme
 
