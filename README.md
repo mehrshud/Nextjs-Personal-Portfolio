@@ -73,8 +73,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 =======
 # Mehrshad - Next.js Theme
 
-[Mehrshad Personal Portfolio](mershad.tech) - the fully-functional React Next.js Portfolio and Blog Theme for creative professionals. With its sleek design, powerful features, and lightning-fast performance, Mehrshad will help you take your online presence to the next level. Whether you're a freelancer, a content creator, or a creative professional, this theme has you covered.
+[Mehrshad Personal Portfolio](https://mershad.tech) - the fully-functional React Next.js Portfolio and Blog Theme for creative professionals. With its sleek design, powerful features, and lightning-fast performance, Mehrshad will help you take your online presence to the next level. Whether you're a freelancer, a content creator, or a creative professional, this theme has you covered.
 
-- [Live Demo](mershad.tech)
+- [Live Demo](https://mershad.tech)
 >>>>>>> afb2cec (First Release)
 >>>>>>> 2048085 (Some Changes Applied)
