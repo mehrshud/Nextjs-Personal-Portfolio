@@ -65,16 +65,24 @@ Your Next.js personal portfolio is now running in production mode! 🎉
 
 Feel free to contribute to this project by submitting issues, bug reports, or feature requests. You can also create a pull request with your proposed changes.
 
-## License 📄
+### To-do
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-=======
+- [ ] Add custom cursor
+- [ ] Change the UI to NextUI
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/)
+
 
 =======
 # Mehrshad - Next.js Theme
 
 [Mehrshad Personal Portfolio](https://mershad.tech) - the fully-functional React Next.js Portfolio and Blog Theme for creative professionals. With its sleek design, powerful features, and lightning-fast performance, Mehrshad will help you take your online presence to the next level. Whether you're a freelancer, a content creator, or a creative professional, this theme has you covered.
 
-- [Live Demo](https://mershad.tech)
->>>>>>> afb2cec (First Release)
->>>>>>> 2048085 (Some Changes Applied)
